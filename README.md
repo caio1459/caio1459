@@ -9,11 +9,9 @@
 ## Minhas Skills
 
 <div style="display: inline_block"> 
-    <p align="center">
+    <p>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,java,angular,go,git,github"/>
         </a>
-        <img src="image.png"/>
-        <img src="delphi.png"/>
     </p>
 </div>
