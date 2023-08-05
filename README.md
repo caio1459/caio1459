@@ -1,9 +1,19 @@
-- 👋 Olá, meu nome é Caio Henrique
-- 👀  Eu estou em Umuarama - PR.
-- 🌱 Atualmente estou apredendo javascrip, HTML, CSS e PHP. 
-- 💞️ Procuro poder me integrar no mundo da programação através de estagios que me permitam adquirir XP.
-- 📫 Entre em contato comigo atraves do meu Gmail: caiogrechic50@gmail.com, ou perfil do instagram: @cayo_henry
-<!---
-caio1459/caio1459 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Olá, meu nome é Caio Henrique 👋
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cayo_henri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-henrique-67a050244/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+
+![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caio1459&show_icons=true&theme=radical)
+
+## Minhas Skills
+
+<div style="display: inline_block"> 
+    <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,java,angular,go,git,github"/>
+        </a>
+        <img src="image.png"/>
+        <img src="delphi.png"/>
+    </p>
+</div>
