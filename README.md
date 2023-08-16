@@ -6,7 +6,7 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caio1459&show_icons=true&theme=radical)
 
-## Minhas Skills
+## My Skills
 
 <div style="display: inline_block"> 
     <p>
