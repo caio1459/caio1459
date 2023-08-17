@@ -9,6 +9,8 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ## My Skills
 
+<img src="https://github.com/alexmpereira/alexmpereira/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
+
 <div style="display: inline_block"> 
     <p>
         <a href="https://skillicons.dev">
