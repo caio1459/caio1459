@@ -12,6 +12,7 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <p>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,java,angular,go,git,github"/>
+            <i class="devicon-oracle-original colored"></i>
         </a>
     </p>
 </div>
