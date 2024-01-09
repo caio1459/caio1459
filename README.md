@@ -11,7 +11,7 @@ Olá! Seja bem vindo
 <div style="display: inline_block"> 
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,java,angular,go,git,github"/>
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,bootstrap,java,angular,react,node,go,git,github"/>
         </a>
     </p>
 </div>
